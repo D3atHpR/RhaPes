@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhaPes", "RhaPes\RhaPes.csproj", "{A363B8D1-6449-4CDD-923A-6236366427B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A363B8D1-6449-4CDD-923A-6236366427B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A363B8D1-6449-4CDD-923A-6236366427B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A363B8D1-6449-4CDD-923A-6236366427B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A363B8D1-6449-4CDD-923A-6236366427B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB5DF49-1335-4BCA-8C84-BAA2EC7EAE88}
+	EndGlobalSection
+EndGlobal
